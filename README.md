@@ -98,6 +98,7 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
+!['Streamlit Application'](Images/streamlit-page.png)
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
